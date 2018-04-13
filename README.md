@@ -12,7 +12,6 @@ Main Stack:
   - alembic for database migration
   - marshmallow for json serialization, deserialization and validation
   - py.test for testing
-  - factory
 
 #### Getting started
 
